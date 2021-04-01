@@ -1,0 +1,15 @@
+{
+  "name": "sass-export-test-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass-export": "git://github.com/zhouhuafei-team/sass-export.git#master"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
